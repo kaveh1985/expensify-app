@@ -8,5 +8,6 @@ exports[`should render AddExpensePage correctly 1`] = `
   <ExpenseForm
     onSubmit={[Function]}
   />
+  <Connect(ExpenseListHeader) />
 </div>
 `;
